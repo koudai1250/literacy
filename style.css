@@ -3,9 +3,9 @@
 
 <head>
   <style>
-       p {color: red; }
+       p. {color: red; }
        p.foo{color: green; }
-       p.bar{color: blue; }
+       #bar{color: blue; }
   </style>
 </head>
 
